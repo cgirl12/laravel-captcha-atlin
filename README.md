@@ -39,13 +39,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Clone the project using the following command:
 
 ```sh
-git clone https://github.com/cgirl12/laravel-captcha-sella.git
+git clone https://github.com/cgirl12/laravel-captcha-atlin.git
 ```
 
 ### 2. Navigate to Project Directory
 
 ```sh
-cd laravel-captcha-sella
+cd laravel-captcha-atlin
 ```
 
 ### 3. Install Dependencies
@@ -96,10 +96,10 @@ The application will be available at `http://127.0.0.1:8000/`.
 
 ## 🚀Preview
 
-![Screenshot 2025-02-17 092026](https://github.com/user-attachments/assets/c9af7d62-d35f-46be-a0e6-d08a132df7f1)
+![Screenshot 2025-02-20 123208](https://github.com/user-attachments/assets/51a0083f-5ee6-47ef-b1f1-702d3b09dfa3)
 
-![Screenshot 2025-02-17 092418](https://github.com/user-attachments/assets/c01a213c-5f92-4d4e-964a-f10575d25c97)
+![Screenshot 2025-02-20 123215](https://github.com/user-attachments/assets/76834e63-f4c8-4b58-b868-357d921f9939)
 
-![Screenshot 2025-02-17 093147](https://github.com/user-attachments/assets/e23c3ead-aadb-4961-92c7-f2e4d5e27e51)
+![Screenshot 2025-02-20 123226](https://github.com/user-attachments/assets/1a23209d-356a-4494-952e-da92805394b4)
 
-![Screenshot 2025-02-17 093241](https://github.com/user-attachments/assets/b547d5a5-5fc2-4bd2-b074-e782edd949a4)
+![Screenshot 2025-02-20 123135](https://github.com/user-attachments/assets/4647dc32-e5fe-4d0c-be9f-d1d433e8a0ab)
